@@ -7,7 +7,7 @@ patch:
   style/horizontal: true # 候選窗横向顯示
   #style/font_face: "Microsoft YaHei" # 我喜歡的字體名稱
   style/font_face: "Hirgino Sans GB W3" # 我喜歡的字體名稱
-  style/font_point: 16 # 字號
+  style/font_point: 14 # 字號
   style/corner_radius: 4 # 窗口圓角半徑
   style/border_height: 4 # 窗口邊界高度，大於圓角半徑才有效果
   style/border_width: 6 # 窗口邊界寬度，大於圓角半徑才有效果
