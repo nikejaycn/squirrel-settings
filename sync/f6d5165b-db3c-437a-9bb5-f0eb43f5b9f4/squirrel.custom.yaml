@@ -7,19 +7,11 @@ patch:
   style/horizontal: true # 候選窗横向顯示
   #style/font_face: "Microsoft YaHei" # 我喜歡的字體名稱
   style/font_face: "Hirgino Sans GB W3" # 我喜歡的字體名稱
-  style/font_point: 24 # 字號
-  style/corner_radius: 5 # 窗口圓角半徑
-  style/border_height: 5 # 窗口邊界高度，大於圓角半徑才有效果
-  style/border_width: 8 # 窗口邊界寬度，大於圓角半徑才有效果
-  style/color_scheme: dark_temple # 選擇配色方案
-  app_options/com.apple.Xcode:
-    ascii_mode: true
-  app_options/com.alfredapp.Alfred:
-    ascii_mode: true
-  app_options/com.sublimetext.2:
-    ascii_mode: true
-  app_options/com.apple.Terminal:
-    ascii_mode: true
+  style/font_point: 14 # 字號
+  style/corner_radius: 4 # 窗口圓角半徑
+  style/border_height: 4 # 窗口邊界高度，大於圓角半徑才有效果
+  style/border_width: 6 # 窗口邊界寬度，大於圓角半徑才有效果
+  style/color_scheme: starcraft # 選擇配色方案
 
 # 註：預設的配色方案及代碼（指定爲 style/color_scheme ）
 # 碧水 - aqua
