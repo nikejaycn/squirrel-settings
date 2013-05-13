@@ -18,3 +18,16 @@ luna_pinyin_simp.schema.yaml
 rime.log
 squirrel.yaml
 user.yaml
+sync/*
+trash/*
+emoji.prism.bin
+emoji.reverse.bin
+emoji.schema.yaml
+emoji.table.bin
+jyutping.prism.bin
+jyutping.reverse.bin
+jyutping.schema.yaml
+jyutping.table.bin
+jyutping.userdb.kct
+luna_pinyin_tw.prism.bin
+luna_pinyin_tw.schema.yaml
