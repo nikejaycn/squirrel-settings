@@ -11,7 +11,7 @@ patch:
   style/corner_radius: 5 # 窗口圓角半徑
   style/border_height: 5 # 窗口邊界高度，大於圓角半徑才有效果
   style/border_width: 8 # 窗口邊界寬度，大於圓角半徑才有效果
-  style/color_scheme: dark_temple # 選擇配色方案
+  style/color_scheme: clean_white # 選擇配色方案
   app_options/com.apple.Xcode:
     ascii_mode: true
   app_options/com.alfredapp.Alfred:
@@ -29,5 +29,8 @@ patch:
 # 孤寺 - lost_temple
 # 暗堂 - dark_temple
 # 星際我爭霸 - starcraft
+# 曬經石 - solarized_rock
+# 谷歌 - google
+# 简约白 - clean_white
 
 
